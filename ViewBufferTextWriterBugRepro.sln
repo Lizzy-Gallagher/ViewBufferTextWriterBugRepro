@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewBufferTextWriterBugRepro", "ViewBufferTextWriterBugRepro\ViewBufferTextWriterBugRepro.csproj", "{CE357A2D-292C-4BF8-9EEA-90C1B0C84FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE357A2D-292C-4BF8-9EEA-90C1B0C84FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE357A2D-292C-4BF8-9EEA-90C1B0C84FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE357A2D-292C-4BF8-9EEA-90C1B0C84FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE357A2D-292C-4BF8-9EEA-90C1B0C84FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F723CFEE-DB25-47CF-9105-3448F5C21540}
+	EndGlobalSection
+EndGlobal
